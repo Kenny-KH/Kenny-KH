@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kenny-KH
 - 👀 I’m interested in data seacurity.
 - 🌱 I’m currently learning basic web developing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---

@@ -17,7 +17,7 @@ Tools
 <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Alfred-5C1F87?style=flat-square&logo=alfred&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-f7f7f7?style=flat-square&logo=notion&logoColor=black"/>
 
 
 

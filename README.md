@@ -4,6 +4,7 @@ Skills
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-E41F23?style=flat-square&logo=java&logoColor=white"/>
 
 Learning
 <br/>

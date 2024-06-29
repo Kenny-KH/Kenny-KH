@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=Auto&height=100&section=header&text=Kenny's%20Github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=Auto&height=100&section=header&text=Kenny's%20Github&fontSize=36)
 
 Skills
 <br/>
@@ -19,8 +19,6 @@ Tools
 <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenny-KH&show_icons=true&theme=dark)
 
 
 
